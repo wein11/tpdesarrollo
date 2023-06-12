@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+.clientes{
+    text-align: center;
+    background-color: #9066eb;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    padding: 50px;
+    border-radius: 30px;
+}
+.empleados_cordinadores{
+    text-align: center;
+    background-color: #9066eb;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    padding: 50px;
+    border-radius: 30px;
+}
+body{
+    background-color: #e3e3ef;
+    background-image: radial-gradient(#4f05ee 0.9px, #e3e3ef 0.9px);
+    background-size: 18px 18px;
+}
+.col-12{
+    margin-top: 30px;
+    float: inline-end;
+}
+#buton{
+    background-color: #4f05ee;
+    color: white;
+}
+#boton{
+    background-color: #4f05ee;
+    color: white;
+}
+h1{
+    padding-bottom: 25px;
+}
+.formulario{
+    margin: 100px 200px 30px 200px;
+    background-color: #9066eb;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+.valid{
+    text-align: center;
+    background-color: #9066eb;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-top: 170px;
+    margin-bottom: 170px;
+    padding: 250px;
+    border-radius: 30px;
+}
+.emp{
+    text-align: center;
+    background-color: #9066eb;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 100px;
+    border-radius: 30px;
+}
+
+h1 {
+    color: #333;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
